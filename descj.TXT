@@ -1,0 +1,12 @@
+
+  ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+  ±O labirinto e sempre igual para todos os niveis do jogo apresentando todas±
+  ±as letras do alfabeto, sendo que a dificuldade aumenta com a diminuicao do±
+  ± tempo e com palavras de maior dimensao. O avatar nao tem que respeitar a ±
+  ± ordem das sucessivas letras da palavra a encontrar, podendo comecar por  ±
+  ± qualquer lado, encontrando as letras pela ordem que o jogador considere  ±
+  ± melhor para concluir o mais rapidamente possivel, que sera encontrar as  ±
+  ±letras que estao mais proximas. Se a palavra apresentar letras repetidas, ±
+  ±basta passar apenas uma vez por cima dessa letra no labirinto.            ±
+  ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
